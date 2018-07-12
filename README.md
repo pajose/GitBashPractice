@@ -1,0 +1,2 @@
+# GitBashPractice
+Practicing git bash
